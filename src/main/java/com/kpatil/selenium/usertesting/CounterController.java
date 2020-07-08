@@ -1,4 +1,4 @@
-package com.udacity.jwdnd.c1.l5.usertesting;
+package com.kpatil.selenium.usertesting;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

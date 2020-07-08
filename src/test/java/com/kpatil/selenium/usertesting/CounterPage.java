@@ -1,4 +1,4 @@
-package com.udacity.jwdnd.c1.l5.usertesting;
+package com.kpatil.selenium.usertesting;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
